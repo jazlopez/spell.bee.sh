@@ -35,7 +35,7 @@ while true
     fi
 
     tput smul
-    
+    printf "  "
     for (( i=0; i<${#WORD}; i++ ))
       do
         CHAR="${WORD:$i:1}"

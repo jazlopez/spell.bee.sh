@@ -34,8 +34,8 @@ while true
       echo ">:$WORD"
     fi
 
-    tput smul
     printf "  "
+    tput smul
     for (( i=0; i<${#WORD}; i++ ))
       do
         CHAR="${WORD:$i:1}"

@@ -41,7 +41,7 @@ while true
         CHAR="${WORD:$i:1}"
         printf "$CHAR"
         say "$CHAR" 
-        sleep 0.66
+        sleep 0.29
     done
     say "$WORD"
     echo

@@ -43,6 +43,7 @@ while true
         say "$CHAR" 
         sleep 0.66
     done
+    say "$WORD"
     echo
 
     tput rmul

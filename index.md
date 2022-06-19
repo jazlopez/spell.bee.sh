@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages# spell.bee.sh
+# spell.bee.sh
 Prepare (your kid for) a spell bee contest participation
 
 ### USAGE

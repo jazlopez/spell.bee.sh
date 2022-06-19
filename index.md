@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages# spell.bee.sh
+Prepare (your kid for) a spell bee contest participation
 
-You can use the [editor on GitHub](https://github.com/jazlopez/spell.bee.sh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### USAGE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You just need to make sure to run the program as below
 
-### Markdown
+```shell
+bash spell.bee.sh
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# output
+# ==============================================================================
+#                       SPELL BEE CONTEST PREPARATION
+#                      Enter a word you want to spell.
+#                   Hear pronunciation and practice yourself.
+#                                Good luck
+# ===============================================================================
+# >:contest
+#  contest
+#
+#  ... What to do next ...
+#[Y|y] to repeat word
+#[Q|q] to close program
+#
+#... press any other key to spell another word
+#
+# >:
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jazlopez/spell.bee.sh/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
